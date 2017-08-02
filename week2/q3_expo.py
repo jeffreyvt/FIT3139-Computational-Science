@@ -1,5 +1,4 @@
 import numpy as np
-import math
 
 def taylor_expo(x):
     ans_list = [1]
