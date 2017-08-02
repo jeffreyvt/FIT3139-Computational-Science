@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31f40ae0-a0a3-4407-89c3-890dc7a717ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week2/q7_eps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week2/q6_underflow.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q3_expo.py" afterPath="$PROJECT_DIR$/week2/q3_expo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q6_overflow.py" afterPath="$PROJECT_DIR$/week2/q6_overflow.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,18 +31,28 @@
       <file leaf-file-name="q6_overflow.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2/q6_overflow.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q7_eps.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="q6_underflow.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week2/q6_underflow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q7_eps.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2/q7_eps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="90">
+              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -86,9 +96,10 @@
         <option value="$PROJECT_DIR$/week1/q10_fib.py" />
         <option value="$PROJECT_DIR$/week2/q4_calculations.txt" />
         <option value="$PROJECT_DIR$/week2/q5_tanCondition.py" />
-        <option value="$PROJECT_DIR$/week2/q6_overflow.py" />
         <option value="$PROJECT_DIR$/week2/q3_expo.py" />
         <option value="$PROJECT_DIR$/week2/q7_eps.py" />
+        <option value="$PROJECT_DIR$/week2/q6_overflow.py" />
+        <option value="$PROJECT_DIR$/week2/q6_underflow.py" />
       </list>
     </option>
   </component>
@@ -174,25 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.q7_eps">
-    <configuration default="false" name="q9_pi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FIT3139-Computational-Science" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1/q9_pi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.q6_underflow">
     <configuration default="false" name="q3_expo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,6 +258,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="q6_underflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FIT3139-Computational-Science" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q6_underflow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,19 +341,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.q9_pi" />
-      <item index="1" class="java.lang.String" itemvalue="Python.q3_expo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.q5_tanCondition" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q6_overflow" />
-      <item index="4" class="java.lang.String" itemvalue="Python.q7_eps" />
+      <item index="0" class="java.lang.String" itemvalue="Python.q3_expo" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q5_tanCondition" />
+      <item index="2" class="java.lang.String" itemvalue="Python.q6_overflow" />
+      <item index="3" class="java.lang.String" itemvalue="Python.q7_eps" />
+      <item index="4" class="java.lang.String" itemvalue="Python.q6_underflow" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.q7_eps" />
+        <item index="0" class="java.lang.String" itemvalue="Python.q6_underflow" />
         <item index="1" class="java.lang.String" itemvalue="Python.q6_overflow" />
-        <item index="2" class="java.lang.String" itemvalue="Python.q3_expo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.q5_tanCondition" />
-        <item index="4" class="java.lang.String" itemvalue="Python.q9_pi" />
+        <item index="2" class="java.lang.String" itemvalue="Python.q7_eps" />
+        <item index="3" class="java.lang.String" itemvalue="Python.q3_expo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.q5_tanCondition" />
       </list>
     </recent_temporary>
   </component>
@@ -575,18 +586,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/q6_overflow.py">
+    <entry file="file://$PROJECT_DIR$/week2/q7_eps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/q7_eps.py">
+    <entry file="file://$PROJECT_DIR$/week2/q6_overflow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/q6_underflow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding />
         </state>
       </provider>
