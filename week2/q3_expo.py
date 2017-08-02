@@ -6,9 +6,11 @@ def taylor_expo(x):
     ans = 1
     print("iteration 1, value = 1")
     i = 1
+    factorial = 1
     while True:
         previous_ans = ans
-        ans += np.power(x, i)/math.factorial(i)
+        factorial *= i
+        ans += np.power(x, i)/factorial
         ans_list.append(ans)
         error = (ans-previous_ans)/(ans)*100
         print("iteration ", i+1, ", value = ", ans, ", error = ", error)
@@ -20,4 +22,4 @@ def taylor_expo(x):
 
 
 if __name__ == "__main__":
-    taylor_expo(7)
+    taylor_expo(1)
