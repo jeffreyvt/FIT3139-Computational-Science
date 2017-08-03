@@ -1,3 +1,9 @@
+"""
+Student ID: 2594 4800
+Name: JiaHui (Jeffrey) Lu
+Aug-2017
+"""
+
 def int2bin(num):
     """
     Converts base 10 integer value to binary

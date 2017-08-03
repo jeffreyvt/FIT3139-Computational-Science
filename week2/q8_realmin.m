@@ -1,3 +1,7 @@
+% Student ID: 2594 4800
+% Name: JiaHui (Jeffrey) Lu
+% Aug-2017
+
 num = 1;
 %keep halving the num until num > 0 condition fails
 while num > 0

@@ -1,3 +1,9 @@
+"""
+Student ID: 2594 4800
+Name: JiaHui (Jeffrey) Lu
+Aug-2017
+"""
+
 import numpy as np
 
 def taylor_expo(x):
