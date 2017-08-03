@@ -7,7 +7,8 @@ while True:
     x = np.multiply(x, multiplier)
     if x == np.inf:
         x = x_previous
+        # the multiplier scales allows faster convergence to the inf
         multiplier = (multiplier - 1.0) / 10.0 + 1.0
     if multiplier < 1.00000001:
         break
-print(x)
+print("The overflow value is:", x)

@@ -1,11 +1,12 @@
 The condition number can be estimated by the formula: x*f'(x)/f(x)
-
 In this case, f(x) = x^2, taking the derivative, f'(x) = 2x.
-
 So the condition number for x^2 ~= x*2*x/x^2 = 2.
+This is still a well conditioned problem as 2 isn't much larger than 1.
 
-This is still a relatively well conditioned problem as 2 isn't much larger than 1.
 
 For the second case, where f(x) = sqrt(x), we have f'(x) = 1/(2*sqrt(X)).
 So the condition number ~= x/(2*sqrt(x)*sqrt(x)) = 1/2.
 Which is less than 1, which means sqrt(x) is a well conditioned function, and it's insensitive to the input data.
+
+
+So, relatively speaking, sqrt(x) is better conditioned than x^2.

@@ -2,10 +2,15 @@ import numpy as np
 import math
 
 def stirling_approx(n):
+    """
+    Implements the Stirling's approximation
+    :param n: value for n!
+    :return: approximated value for n! using stirling's approximation.
+    """
     return np.sqrt(2*np.pi*n)*np.power((n/np.exp(1)),n)
 
 if __name__ == "__main__":
-    for n in range(15):
+    for n in range(1,16):
         real_val = math.factorial(n)
         approx_val = stirling_approx(n)
         abs_error = abs(real_val - approx_val)

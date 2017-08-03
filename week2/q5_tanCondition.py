@@ -20,3 +20,8 @@ plot4, = plt.plot(x, z1, "g", label="function")
 plt.legend(handles=[plot3, plot4], loc=1)
 plt.title("f(x) = arctan(x)")
 plt.show()
+
+"""
+The green plot shows the function value and the blue plot shows the condition number.
+As you can see, the condition number for arctan(x) behaves much nicer (much better conditioned) than tan(x)
+"""
