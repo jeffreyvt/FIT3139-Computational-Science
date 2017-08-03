@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31f40ae0-a0a3-4407-89c3-890dc7a717ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q10_circle.py" afterPath="$PROJECT_DIR$/week2/q10_circle.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q1_realToBin.py" afterPath="$PROJECT_DIR$/week2/q1_realToBin.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,21 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q10_circle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="q10_circle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2/q10_circle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="q1_realToBin.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="q1_realToBin.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week2/q1_realToBin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            <state relative-caret-position="510">
+              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -63,7 +62,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/week2/q2_stirling.py" />
-        <option value="$PROJECT_DIR$/week2/q1_realToBin.py" />
         <option value="$PROJECT_DIR$/week1/q1_surfaceArea.py" />
         <option value="$PROJECT_DIR$/week1/q2_oblateSpheroid.py" />
         <option value="$PROJECT_DIR$/week1/q3_quadratic.py" />
@@ -81,6 +79,7 @@
         <option value="$PROJECT_DIR$/week2/q7_eps.py" />
         <option value="$PROJECT_DIR$/week2/q9_coord.py" />
         <option value="$PROJECT_DIR$/week2/q10_circle.py" />
+        <option value="$PROJECT_DIR$/week2/q1_realToBin.py" />
       </list>
     </option>
   </component>
@@ -166,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.q10_circle">
+  <component name="RunManager" selected="Python.q1_realToBin">
     <configuration default="false" name="q6_overflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,24 +179,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FIT3139-Computational-Science" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q6_overflow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="q7_eps" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FIT3139-Computational-Science" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q7_eps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,6 +233,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FIT3139-Computational-Science" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q9_coord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="q1_realToBin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FIT3139-Computational-Science" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q1_realToBin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,18 +322,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.q6_overflow" />
-      <item index="1" class="java.lang.String" itemvalue="Python.q7_eps" />
-      <item index="2" class="java.lang.String" itemvalue="Python.q6_underflow" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q10_circle" />
-      <item index="4" class="java.lang.String" itemvalue="Python.q9_coord" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q6_underflow" />
+      <item index="2" class="java.lang.String" itemvalue="Python.q10_circle" />
+      <item index="3" class="java.lang.String" itemvalue="Python.q9_coord" />
+      <item index="4" class="java.lang.String" itemvalue="Python.q1_realToBin" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.q10_circle" />
-        <item index="1" class="java.lang.String" itemvalue="Python.q9_coord" />
-        <item index="2" class="java.lang.String" itemvalue="Python.q6_overflow" />
-        <item index="3" class="java.lang.String" itemvalue="Python.q6_underflow" />
-        <item index="4" class="java.lang.String" itemvalue="Python.q7_eps" />
+        <item index="0" class="java.lang.String" itemvalue="Python.q1_realToBin" />
+        <item index="1" class="java.lang.String" itemvalue="Python.q10_circle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.q9_coord" />
+        <item index="3" class="java.lang.String" itemvalue="Python.q6_overflow" />
+        <item index="4" class="java.lang.String" itemvalue="Python.q6_underflow" />
       </list>
     </recent_temporary>
   </component>
@@ -353,7 +352,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="989" height="1096" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2355915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -733,18 +731,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/q1_realToBin.py">
+    <entry file="file://$PROJECT_DIR$/week2/q10_circle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/q10_circle.py">
+    <entry file="file://$PROJECT_DIR$/week2/q1_realToBin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="46" lean-forward="false" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+        <state relative-caret-position="510">
+          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding />
         </state>
       </provider>

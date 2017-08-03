@@ -31,11 +31,11 @@ def float2bin(num):
     if len(tmp) > 1:
         i = int(tmp[0])
         d = float("0."+tmp[1])
-        print(i, d)
+        # print(i, d)
         result = int2bin(i) + "." + decimal2bin(d)
     else:
         i = int(tmp[0])
         result = int2bin(i)
     print(result)
 
-float2bin(10)
+float2bin(10.1)
