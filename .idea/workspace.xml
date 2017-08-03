@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31f40ae0-a0a3-4407-89c3-890dc7a717ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q8_realmin.m" afterPath="$PROJECT_DIR$/week2/q8_realmin.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q10_circle.py" afterPath="$PROJECT_DIR$/week2/q10_circle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q1_realToBin.py" afterPath="$PROJECT_DIR$/week2/q1_realToBin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q2_stirling.py" afterPath="$PROJECT_DIR$/week2/q2_stirling.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q3_expo.py" afterPath="$PROJECT_DIR$/week2/q3_expo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q4_calculations.txt" afterPath="$PROJECT_DIR$/week2/q4_calculations.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q5_tanCondition.py" afterPath="$PROJECT_DIR$/week2/q5_tanCondition.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q6_overflow.py" afterPath="$PROJECT_DIR$/week2/q6_overflow.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q6_underflow.py" afterPath="$PROJECT_DIR$/week2/q6_underflow.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q7_eps.py" afterPath="$PROJECT_DIR$/week2/q7_eps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q9_coord.py" afterPath="$PROJECT_DIR$/week2/q9_coord.py" />
-    </list>
+    <list default="true" id="31f40ae0-a0a3-4407-89c3-890dc7a717ef" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -432,9 +420,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="989" height="1096" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2355915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2355915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3057449" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
