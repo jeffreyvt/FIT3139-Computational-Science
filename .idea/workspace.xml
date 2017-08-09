@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31f40ae0-a0a3-4407-89c3-890dc7a717ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q8_realmin.m" afterPath="$PROJECT_DIR$/week2/q8_realmin.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q10_circle.py" afterPath="$PROJECT_DIR$/week2/q10_circle.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q1_realToBin.py" afterPath="$PROJECT_DIR$/week2/q1_realToBin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q2_stirling.py" afterPath="$PROJECT_DIR$/week2/q2_stirling.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q3_expo.py" afterPath="$PROJECT_DIR$/week2/q3_expo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q4_calculations.txt" afterPath="$PROJECT_DIR$/week2/q4_calculations.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q5_tanCondition.py" afterPath="$PROJECT_DIR$/week2/q5_tanCondition.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q6_overflow.py" afterPath="$PROJECT_DIR$/week2/q6_overflow.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q6_underflow.py" afterPath="$PROJECT_DIR$/week2/q6_underflow.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q7_eps.py" afterPath="$PROJECT_DIR$/week2/q7_eps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q7_eps_matlab.m" afterPath="$PROJECT_DIR$/week2/q7_eps_matlab.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week2/q9_coord.py" afterPath="$PROJECT_DIR$/week2/q9_coord.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week3/tmp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +15,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="q9_coord.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="q9_coord.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2/q9_coord.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="225">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week3/tmp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="110" lean-forward="false" selection-start-line="0" selection-start-column="110" selection-end-line="0" selection-end-column="110" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q1_solve.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week3/q1_solve.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,28 +47,6 @@
       </file>
       <file leaf-file-name="q10_circle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week2/q10_circle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q2_stirling.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/q2_stirling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding>
-                <element signature="e#66#84#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="q3_expo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/q3_expo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
@@ -164,6 +152,8 @@
         <option value="$PROJECT_DIR$/week2/q7_eps_matlab.m" />
         <option value="$PROJECT_DIR$/week2/q9_coord.py" />
         <option value="$PROJECT_DIR$/week2/q10_circle.py" />
+        <option value="$PROJECT_DIR$/week3/test.py" />
+        <option value="$PROJECT_DIR$/week3/tmp.py" />
       </list>
     </option>
   </component>
@@ -263,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.q5_tanCondition">
+  <component name="RunManager" selected="Python.tmp">
     <configuration default="false" name="q6_overflow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,42 +267,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FIT3139-Computational-Science" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q6_overflow.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="q9_coord" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FIT3139-Computational-Science" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q9_coord.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="q10_circle" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="FIT3139-Computational-Science" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q10_circle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,6 +303,39 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="FIT3139-Computational-Science" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/q5_tanCondition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in tmp.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FIT3139-Computational-Science" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/week3/tmp.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FIT3139-Computational-Science" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3/tmp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -420,18 +407,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.q6_overflow" />
-      <item index="1" class="java.lang.String" itemvalue="Python.q9_coord" />
-      <item index="2" class="java.lang.String" itemvalue="Python.q10_circle" />
-      <item index="3" class="java.lang.String" itemvalue="Python.q3_expo" />
-      <item index="4" class="java.lang.String" itemvalue="Python.q5_tanCondition" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q3_expo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.q5_tanCondition" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in tmp.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tmp" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.q5_tanCondition" />
-        <item index="1" class="java.lang.String" itemvalue="Python.q3_expo" />
-        <item index="2" class="java.lang.String" itemvalue="Python.q6_overflow" />
-        <item index="3" class="java.lang.String" itemvalue="Python.q10_circle" />
-        <item index="4" class="java.lang.String" itemvalue="Python.q9_coord" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in tmp.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.q5_tanCondition" />
+        <item index="3" class="java.lang.String" itemvalue="Python.q3_expo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.q6_overflow" />
       </list>
     </recent_temporary>
   </component>
@@ -448,14 +435,18 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_py - 2017.08.08 at 12h 00m 21s.xml">
+      <configuration name="Unittests in test.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="989" height="1096" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2355915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3057449" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3057449" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -480,20 +471,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week1/q2_oblateSpheroid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1/q5_divisible.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week1/q6_pythagorean.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -618,9 +595,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="4" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
-          <folding>
-            <element signature="e#66#84#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -778,7 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,8 +834,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week2/q9_coord.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="225">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/q1_solve.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="110" lean-forward="false" selection-start-line="0" selection-start-column="110" selection-end-line="0" selection-end-column="110" />
           <folding />
         </state>
       </provider>

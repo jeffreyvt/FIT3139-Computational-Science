@@ -1,0 +1,11 @@
+A = [0.1 0.2 0.3;0.4 0.5 0.6;0.7 0.8 0.9]
+
+
+det(A) = 0.1*det([0.5 0.6; 0.8 0.9]) - 0.2*det([0.4 0.6;0.7 0.9]) + 0.3*det([0.4 0.5; 0.7 0.8])
+= 0.1*(0.5*0.9 - 0.6*0.8) - 0.2*(0.4*0.9-0.6*0.7) + 0.3*(0.4*0.8 - 0.5*0.7)
+= -0.003 + 0.012 - 0.009
+= 0
+
+The determinant is 0. However, MATLAB is unable to handle small number 
+subtractions due the fact that numbers are stored in binary, hence a small
+error arise.
