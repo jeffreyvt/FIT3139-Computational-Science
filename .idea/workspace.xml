@@ -29,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/week3/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="110" lean-forward="false" selection-start-line="0" selection-start-column="110" selection-end-line="0" selection-end-column="110" />
+              <caret line="0" column="243" lean-forward="false" selection-start-line="0" selection-start-column="243" selection-end-line="0" selection-end-column="243" />
               <folding />
             </state>
           </provider>
@@ -538,7 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,9 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#66#84#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -832,14 +827,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/q9_coord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week3/q1_solve.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -848,10 +835,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week2/q9_coord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week3/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="110" lean-forward="false" selection-start-line="0" selection-start-column="110" selection-end-line="0" selection-end-column="110" />
+          <caret line="0" column="243" lean-forward="false" selection-start-line="0" selection-start-column="243" selection-end-line="0" selection-end-column="243" />
           <folding />
         </state>
       </provider>
