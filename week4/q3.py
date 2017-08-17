@@ -52,7 +52,7 @@ def intervalBisection(fun):
             i += 1
     # the root is [L, U]
     # print(L, U, fL, fU)
-    error = np.abs(fL - fU)
+    error = np.abs(U - L)
     while error > 0.00001:
         mid = (U - L) / 2 + L
         fmid = fun(mid)
@@ -62,7 +62,7 @@ def intervalBisection(fun):
         else:
             L = mid
             fL = fmid
-        error = np.abs(fL - fU)
+        error = np.abs(U - L)
         # print(mid, error)
         # print(L, U, fL, fU)
         # input()
@@ -70,7 +70,7 @@ def intervalBisection(fun):
 
 
 if __name__ == "__main__":
-    print(intervalBisection(function1))
-    print(intervalBisection(function2))
-    print(intervalBisection(function3))
-    print(intervalBisection(function4))
+    print("The root for function 1 is: ", intervalBisection(function1))
+    print("The root for function 2 is: ", intervalBisection(function2))
+    print("The root for function 3 is: ", intervalBisection(function3))
+    print("The root for function 4 is: ", intervalBisection(function4))
