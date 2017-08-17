@@ -19,6 +19,11 @@ def function2(x):
 def function2_d(x):
     return 4*(x-1)**3
 
+def function3(x):
+    return x**3-4
+
+def function3_d(x):
+    return 3*x**2
 
 
 def newton(fun, fun_d, true_val, i=0):
@@ -40,6 +45,8 @@ for i in range(len(errors)-1):
     errors[i] = errors[i+1]/errors[i]
 errors.pop()
 print(errors)
+print("We have linear convergence for the first equation")
+
 
 solution, errors = newton(function2, function2_d, 1, i=10)
 print(solution)
@@ -47,3 +54,4 @@ for i in range(len(errors)-1):
     errors[i] = errors[i+1]/errors[i]
 errors.pop()
 print(errors)
+print("We have linear convergence for the second equation")

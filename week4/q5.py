@@ -5,12 +5,13 @@ Student ID: 25944800
 
 import numpy as np
 
+
 def function(x):
     return (x**2-1)/(2*x)-1/np.tan(x)
 
 
 def function_d(x):
-    return -1+(x**2-1)/(2*x*x) - 1/(np.sin(x)**2)
+    return 1-(x**2-1)/(2*x*x) + 1/(np.sin(x)**2)
 
 def newton(fun, fun_d, i=0):
     x_current = i
@@ -51,7 +52,9 @@ def intervalBisection(fun, U, L):
     return mid
 
 if __name__ == "__main__":
+    print("Using Secant method:")
     print(secant(function, 0.1, 0.01))
+    print("Using interval bisection method:")
     print(intervalBisection(function, 2, 1))
-    # Cant seem to get the newton to converge
-    print(newton(function,function_d, 1.33))
+    print("Using Newton method:")
+    print(newton(function,function_d, 3))
