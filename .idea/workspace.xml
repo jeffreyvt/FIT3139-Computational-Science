@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31f40ae0-a0a3-4407-89c3-890dc7a717ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week8/q2.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/submission/q1a_report.md" afterPath="$PROJECT_DIR$/assignment1/submission/q1a_report.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/submission/q1b_report.pdf" afterPath="$PROJECT_DIR$/assignment1/submission/q1b_report.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week8/q1.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week8/q3.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week8/q4 and 5.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/q1.ipynb" afterPath="$PROJECT_DIR$/assignment1/q1.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignment1/submission/q1b_report.md" afterPath="$PROJECT_DIR$/assignment1/submission/q1b_report.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week8/q2.ipynb" afterPath="$PROJECT_DIR$/week8/q2.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,21 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="q2.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="q2.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week8/q2.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="-1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="edit_distance.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/edit_distance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-              <folding />
+              <selected id="4" />
             </state>
           </provider>
         </entry>
@@ -57,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week1/q1_surfaceArea.py" />
         <option value="$PROJECT_DIR$/week1/q2_oblateSpheroid.py" />
         <option value="$PROJECT_DIR$/week1/q3_quadratic.py" />
         <option value="$PROJECT_DIR$/week1/q5_divisible.py" />
@@ -103,9 +91,12 @@
         <option value="$PROJECT_DIR$/assignment1/submission/q2.py" />
         <option value="$PROJECT_DIR$/assignment1/submission/q2_script.py" />
         <option value="$PROJECT_DIR$/assignment1/q2.ipynb" />
-        <option value="$PROJECT_DIR$/week7/q2.ipynb" />
-        <option value="$PROJECT_DIR$/week8/q2.ipynb" />
         <option value="$PROJECT_DIR$/edit_distance.py" />
+        <option value="$PROJECT_DIR$/week7/q2.ipynb" />
+        <option value="$PROJECT_DIR$/week8/q4.ipynb" />
+        <option value="$PROJECT_DIR$/week8/q2.ipynb" />
+        <option value="$PROJECT_DIR$/week8/q1.ipynb" />
+        <option value="$PROJECT_DIR$/week8/q3.ipynb" />
       </list>
     </option>
   </component>
@@ -149,6 +140,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="FIT3139-Computational-Science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FIT3139-Computational-Science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FIT3139-Computational-Science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FIT3139-Computational-Science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FIT3139-Computational-Science" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="week7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -383,7 +402,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1093" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.102604166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.100520834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23369037" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23339844" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
@@ -411,27 +430,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week1/q7_triangles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1/q8_DNA.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="12" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week1/q9_pi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="15" lean-forward="false" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week1/q10_fib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -700,13 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week7/q2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment1/submission/output.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -718,6 +709,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2010">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -725,6 +717,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8296">
           <caret line="3002" column="4" lean-forward="false" selection-start-line="3002" selection-start-column="4" selection-end-line="3002" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -742,18 +735,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week8/q2.ipynb">
+    <entry file="file://$PROJECT_DIR$/edit_distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week7/q2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edit_distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/week8/q4 and 5.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8/q1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8/q3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week8/q2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
         </state>
       </provider>
     </entry>
