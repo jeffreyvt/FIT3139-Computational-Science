@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31f40ae0-a0a3-4407-89c3-890dc7a717ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week8/q1.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week8/q3.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week8/q4 and 5.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week8/q2.ipynb" afterPath="$PROJECT_DIR$/week8/q2.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week8/q4 and 5.ipynb" afterPath="$PROJECT_DIR$/week8/q4 and 5.ipynb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +17,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="q2.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="q2.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week8/q2.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q3.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week8/q3.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q4 and 5.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week8/q4 and 5.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="q1.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week8/q1.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="4" />
@@ -401,8 +424,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1093" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.100520834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.100520834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23369037" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23339844" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
@@ -750,14 +774,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week8/q4 and 5.ipynb">
+    <entry file="file://$PROJECT_DIR$/week8/q1.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week8/q1.ipynb">
+    <entry file="file://$PROJECT_DIR$/week8/q2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="4" />
@@ -771,10 +795,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week8/q2.ipynb">
+    <entry file="file://$PROJECT_DIR$/week8/q4 and 5.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="4" />
+          <selected id="11" />
         </state>
       </provider>
     </entry>
